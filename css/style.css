@@ -1,0 +1,15 @@
+body {
+  color: #fff;
+  background-color: #000000;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+.btn-default {
+	margin: 4px;
+	width: calc(15% - 4px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
