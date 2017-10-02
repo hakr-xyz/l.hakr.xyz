@@ -13,7 +13,7 @@ body {
 
 .btn-default {
   margin: 4px;
-  width: calc(15% - 4px);
+  width: 145px;
   color: #0ce3ac;
   overflow: hidden;
   text-overflow: ellipsis;
