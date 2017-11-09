@@ -7,6 +7,10 @@ body {
   margin-bottom: 19px;
 }
 
+.navbar-inverse .navbar-brand {
+  color: #df2d2d;
+}
+
 .starter-template {
   text-align: center;
 }
